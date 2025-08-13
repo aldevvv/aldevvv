@@ -1,5 +1,3 @@
-# 👨‍💻 Muhammad Alif
-
 <div align="center">
   
 ### `Open Source Developer • Tech Enthusiast • Creative Mind`
