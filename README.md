@@ -60,4 +60,4 @@ Recent writing is published at [mhdalif.id/blogs](https://www.mhdalif.id/blogs).
 
 ## Contact
 
-For project discussions and collaboration: **mhdalif.id@gmail.com**
+For project discussions and collaboration: **hello@mhdalif.id**
